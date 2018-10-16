@@ -9,4 +9,4 @@
 
 Three tasks in one program.
 
-Check out https://github.com/jdyba/LionsAcademy/wiki
+Check out screens: https://github.com/jdyba/LionsAcademy/wiki
