@@ -8,3 +8,5 @@
 3 - Green lottery, give three lucky numbers.
 
 Three tasks in one program.
+
+Check out https://github.com/jdyba/LionsAcademy/wiki
